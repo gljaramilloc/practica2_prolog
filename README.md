@@ -19,6 +19,6 @@ Practica II de la asignatura de lenguajes de programación, el cual consiste en 
 
 ---
 
-## 📹 Video demostración
-➡️ [Agregá el link a YouTube o Drive]
+## 📹 Video explicativo
+➡️ [https://youtu.be/ln8C2uNbRPw]
 
